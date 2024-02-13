@@ -1,5 +1,5 @@
 # bio_page
-biography page for teaching
+#biography page for teaching
 <!DOCTYPE html>
 <html lang="en">
 <head>
